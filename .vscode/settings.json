@@ -17,5 +17,6 @@
     "esp_lvgl_port.h": "c",
     "cstdlib": "c",
     "displayssd1306.h": "c"
-  }
+  },
+  "idf.currentSetup": "C:\\Users\\mende\\esp\\v5.5.1\\esp-idf"
 }
