@@ -8,8 +8,8 @@ extern "C" {
 #endif
 
 
-#define WIFI_SSID      "Nice 2.4G"
-#define WIFI_PASSWORD  "bolinho12"
+#define WIFI_SSID      "ID"
+#define WIFI_PASSWORD  "Senha"
 //#define HTTP_SERVER_URL "http://192.168.56.1/api/data" //endpoint (ip)/api/data
 
 /**
